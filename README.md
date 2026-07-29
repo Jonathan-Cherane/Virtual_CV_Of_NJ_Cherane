@@ -9,7 +9,7 @@ Deployed on Netlify.
 
 * **Interactive Hero Section:** Features a dynamic typewriter text effect, professional introduction, social media links (LinkedIn, GitHub, YouTube, Instagram, and Twitch), and a direct CV download button.
 * **Comprehensive About Section:** Highlights your strategic IT professional profile, academic background at North West University, values, awards (Golden Key International Society, Cybersecurity certification, and Game Jam placement), languages, and hobbies.
-* **Project Showcase:** Highlights key applications and games including **The Harmoni Application VIP Project** (Andriod Studio), **DragonJourney** (Game Jam 2nd Place & Godot), and **Lerato Orphanage System** (Oracle SQl Server).
+* **Project Showcase:** Highlights key applications and games including **The Harmoni Application VIP Project** (Andriod Studio), **Dragon Journey** (Game Jam 2nd Place & Godot), and **Lerato Orphanage System** (Oracle SQL Server).
 * **Skills Breakdown:** Visualizes technical proficiency in Java, C#, Python, HTML/CSS, and office productivity tools using custom percentage bars.
 * **Experience Timeline:** Displays leadership and work history including roles with the Democratic Alliance Student Organization, Geekulcha Student Society, NWU RiverFM, and more.
 * **Direct Contact Mechanism:** Includes a direct `mailto:` link that instantly opens visitors' email clients to message `njcherane@proton.me`.
