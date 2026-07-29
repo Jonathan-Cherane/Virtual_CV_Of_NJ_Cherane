@@ -1,4 +1,4 @@
-# Virtual_CV_Of_NJ_Cherane
+# Portfolio-Website-Of-NJ-Cherane
 A responsive, single-page personal portfolio and virtual CV built with HTML5, CSS3, and JavaScript, designed to showcase software development projects, academic achievements, leadership experience, and technical competencies. 
 
 Deployed on Netlify.
