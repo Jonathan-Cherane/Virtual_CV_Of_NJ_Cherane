@@ -19,8 +19,8 @@ Deployed on Netlify.
 
 ## 🛠️ Technology Stack
 
-* **Front-End:** HTML5, CSS3 (Flexbox, custom properties, media queries), Vanilla JavaScript[cite: 3].
-* **Icons:** Boxicons[cite: 3].
+* **Front-End:** HTML5, CSS3 (Flexbox, custom properties, media queries), Vanilla JavaScript.
+* **Icons:** Boxicons.
 * **Fonts:** Google Fonts (*Poppins*).
 * **Hosting & Deployment:** Netlify.
 
